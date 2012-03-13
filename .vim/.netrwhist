@@ -1,10 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/youngroy/projects/cctvoe_deploy/cctvoe'
-let g:netrw_dirhist_2='/Users/youngroy/projects/cctvoe_deploy/cctvoe/app'
-let g:netrw_dirhist_3='/Users/youngroy/projects/cctvoe_deploy/cctvoe'
-let g:netrw_dirhist_4='/Users/youngroy/.oh-my-zsh/themes'
-let g:netrw_dirhist_5='/Users/youngroy/.oh-my-zsh'
-let g:netrw_dirhist_6='/Users/youngroy/projects/cctvoe_deploy/cctvoe/app/views/layouts'
-let g:netrw_dirhist_7='/Users/youngroy/.vim-cache'
-let g:netrw_dirhist_8='/Users/youngroy/.vim_conf'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/youngroy/projects/octopress/.themes/classic/source'
+let g:netrw_dirhist_2='/'
+let g:netrw_dirhist_3='/Users/youngroy/projects/books'
+let g:netrw_dirhist_4='/Users/youngroy/.vim_conf'

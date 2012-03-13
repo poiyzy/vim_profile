@@ -3,7 +3,7 @@ set guifont=Monaco:h13
 set guioptions-=T "egmrt
 " 设定文件浏览器目录为当前目录
 set bsdir=buffer
-color jellybeans
+color jellybeans_janus
 " 显示行号
 set number
 " tab 宽度
